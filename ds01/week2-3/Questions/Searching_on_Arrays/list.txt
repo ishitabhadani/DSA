@@ -1,0 +1,26 @@
+📁 SEARCHING_ON_ARRAYS/
+one_Binary_Search.java
+
+two_lower_bound.java
+
+three_upper_bound.java
+
+four_Search_Insert_Position.java
+
+five_Floor_and_Ceil.java
+
+six_First_and_Last_Occurrence.java
+
+seven_Count_Occurrences.java
+
+eight_Search_in_Rotated_Sorted_Array_I.java
+
+nine_Search_in_Rotated_Sorted_Array_II.java
+
+ten_Find_Minimum_in_Rotated_Sorted_Array.java
+
+eleven_How_Many_Times_Array_Rotated.java
+
+twelve_Single_Element_in_Sorted_Array.java
+
+thirteen_Find_Peak_Element.java

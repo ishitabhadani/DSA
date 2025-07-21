@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "six_Middle_of_Linked_List",
+            "request": "launch",
+            "mainClass": "questions.six_Middle_of_Linked_List",
+            "projectName": "singly_linked_list_8fd18778"
+        },
+        {
+            "type": "java",
+            "name": "five_Reverse_Linked_List_Recursive",
+            "request": "launch",
+            "mainClass": "questions.five_Reverse_Linked_List_Recursive",
+            "projectName": "singly_linked_list_8fd18778"
+        },
+        {
+            "type": "java",
+            "name": "Insert_in_LL",
+            "request": "launch",
+            "mainClass": "video_notes.Insert_in_LL",
+            "projectName": "singly_linked_list_8fd18778"
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "three_Delete_Node",
+            "request": "launch",
+            "mainClass": "questions.three_Delete_Node",
+            "projectName": "singly_linked_list_8fd18778"
+        },
+        {
+            "type": "java",
+            "name": "Delete_in_LL",
+            "request": "launch",
+            "mainClass": "video_notes.Delete_in_LL",
+            "projectName": "singly_linked_list_8fd18778"
+        },
+        {
+            "type": "java",
+            "name": "convert_arr_to_linkedlist",
+            "request": "launch",
+            "mainClass": "video_notes.convert_arr_to_linkedlist",
+            "projectName": "singly_linked_list_8fd18778"
+        }
+    ]
+}
