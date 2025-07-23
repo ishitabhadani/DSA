@@ -14,6 +14,4 @@ public class two_Print_N_to_1 {
         System.out.print(i + "\t");
         print_nto1(i-1, n);
     }
-
-
 }
